@@ -1,4 +1,4 @@
-# Virtual Enterprise Network Lab (Active Directory + Automation)
+# Enterprise Active Directory & Cybersecurity Lab (with Automation)
 
 ## Objective
 
