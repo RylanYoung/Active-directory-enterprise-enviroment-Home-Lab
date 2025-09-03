@@ -2,7 +2,7 @@
 
 ## Objective
 
-Set up an enterprise-style VirtualBox lab featuring Active Directory as the core, combining manual configuration with PowerShell automation (e.g., bulk user creation) to practice real-world IT administration and strengthen cybersecurity skills through hands-on enterprise environment simulation.
+Set up an enterprise-style VirtualBox lab featuring Active Directory as the core, combining manual configuration with PowerShell automation (e.g., bulk user creation). The lab will use a dual NIC setup, one for internal network communication and one for external internet access to simulate a realistic enterprise environment, strengthen IT administration skills, and build practical cybersecurity expertise.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
